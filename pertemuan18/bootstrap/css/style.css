@@ -1,0 +1,33 @@
+.center_div{
+margin:0 auto;
+width:100%;
+}
+.btn_space{
+    margin-left:5px;
+}
+.ea:hover {
+    text-decoration: none !important;
+    color: inherit;
+   
+}
+.ea{
+    text-decoration: none !important;
+    color: inherit;
+   
+}
+.mar{
+    margin-left: 10px;
+}
+.gin{
+    margin-left: 50px;
+}
+.era:hover{
+text-decoration: none;
+color: inherit;
+}
+.khua{
+        margin: 0 auto;
+        padding: 50px 50px;
+        color: rgb(36, 26, 26);
+
+}
